@@ -1,6 +1,6 @@
 {
-	"author" : "Kenedy Maina",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Kenedy Maina",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
