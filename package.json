@@ -1,5 +1,6 @@
 {
   "name": "fcc-learn-npm-package-json",
+<<<<<<< HEAD
   "author": "Kenedy maina",
   "description": "A project that does something awesome",
   "keywords": [
@@ -8,6 +9,9 @@
   ],
   "license": "MIT",
   "version": "1.0.0",
+=======
+  "author": "Kenedy Maina",
+>>>>>>> 75c8a2e4570308057537b1d2d1088f95f0b358b2
   "dependencies": {
     "express": "^4.18.2"
   },
